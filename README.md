@@ -1,0 +1,1 @@
+# Pokemmo_character_detect
