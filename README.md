@@ -14,7 +14,7 @@ Some exampels show below.
 
 
 <p align="center">
-   <img src="https://github.com/Karobben/Pokemmo_character_detect/blob/master/Exsample/DeepinScreenshot_20190419181904.png" width="350" title="hover text">
-   <img src="https://github.com/Karobben/Pokemmo_character_detect/blob/master/Exsample/DeepinScreenshot_20190419181939.png" width="350" title="hover text">
-   <img src="https://github.com/Karobben/Pokemmo_character_detect/blob/master/Exsample/DeepinScreenshot_20190419182007.png" width="350" title="hover text">
+   <img src="https://github.com/Karobben/Pokemmo_character_detect/blob/master/Exsample/DeepinScreenshot_20190419181904.png" width="750" title="hover text">
+   <img src="https://github.com/Karobben/Pokemmo_character_detect/blob/master/Exsample/DeepinScreenshot_20190419181939.png" width="750" title="hover text">
+   <img src="https://github.com/Karobben/Pokemmo_character_detect/blob/master/Exsample/DeepinScreenshot_20190419182007.png" width="750" title="hover text">
 </p>
